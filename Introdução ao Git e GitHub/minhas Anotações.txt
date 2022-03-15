@@ -1,0 +1,25 @@
+O Git é um sistema de Software de versionamento de códigos, ajudando a criar e monitorar diferentes versões do nosso código.
+O Git não tem interface gráfica, é uma linha de comando.
+
+Já o GitHub é o servidor (Repositório Remoto)
+
+Alguns comandos:
+
+Windows      Unix       significado
+cd           cd         muda/navega por diretórios
+dir          ls         listar
+mkdir        mkdir      criar diretórios
+del/rmdir    rm-rf      deletar pastas
+
+O SHA1 é uma formacurta de representar um arquivo e sempre trará uma chave diferente
+
+Objetos internos do Git:
+
+-Blobs - arquivos de objetos;
+-Trees - armazenam Blobs;
+-Commit - junta tudo dando sentido para a alteração que está sendo feita.
+
+O SSH possui 2 chaves, uma publica e uma privada.
+
+Link para download do Git:https://git-scm.com/
+
